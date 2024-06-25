@@ -9,22 +9,22 @@ This is an organization that contains templates, solutions, and other resources 
 
 ## Templates
 
-### Restful Development
+#### Restful Development
 - [NodeJS Backend](https://github.com/NE-Practicals-2024/nodejs-template) (Typescript, Prisma, PosgreSQL, Email, and more)
 - [NestJS Backend](https://github.com/NE-Practicals-2024/nestjs-template) (Typescript, Prisma, PosgreSQL, Email, etc)
 - [React Frontend](https://github.com/NE-Practicals-2024/react-template) (Vite, Redux, Context, Tailwind)
 
-### Mobile Development
+#### Mobile Development
 - [Expo Mobile](https://github.com/NE-Practicals-2024/mobile-template) (Expo, Toast, Redux, Tailwind)
 
-### Springboot Development
+#### Springboot Development
 - [Springboot V3](https://github.com/NE-Practicals-2024/springboot-template-v3) (Spring 3, Spring Security 6, Mail, Swagger v3, PostgreSQL)
 - [Springboot V2](https://github.com/NE-Practicals-2024/springboot-template-v2) (Spring 2, Spring Security 5, Mail, Swagger 2.0, Mysql)
 
-### DSA Utils
+#### DSA Utils
 - [Utils Compilation](https://github.com/NE-Practicals-2024/dsa-utils-compilation) (Linked Lists, Sort, Search, etc)
 
-### Embedded Systems
+#### Embedded Systems
 - [Embedded Systems Modules Compilations](https://github.com/NE-Practicals-2024/embedded-systems-utils)
 
 
