@@ -37,7 +37,8 @@ This is an organization that contains templates, solutions, and other resources 
 - [Embedded Correction](https://github.com/NE-Practicals-2024/embedded-2024)
 
 
-## 2023 Correction
+## 2023 Correction - [NE Practicals 2023.zip](https://github.com/user-attachments/files/15994160/NE.Practicals.2023.zip)
+
 
 - [Restful Correction](https://github.com/NE-Practicals-2024/restful-2023)
 - [DSA Correction](https://github.com/NE-Practicals-2024/dsa-2023)
