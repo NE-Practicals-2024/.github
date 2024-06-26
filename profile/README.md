@@ -44,6 +44,6 @@ This is an organization that contains templates, solutions, and other resources 
 - [DSA Correction](https://github.com/NE-Practicals-2024/dsa-2023)
 - [Mobile Correction](https://github.com/NE-Practicals-2024/mobile-2023)
 - [OOP with JAVA Correction](https://github.com/NE-Practicals-2024/oop-2023)
-
+- [Embedded Systems Correction](https://github.com/NE-Practicals-2024/embedded-2023)
 
 Have fun exploring 🚀. Its your time to shine!!!
